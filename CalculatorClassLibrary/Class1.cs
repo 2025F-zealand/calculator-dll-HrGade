@@ -4,7 +4,7 @@
     {
         
             /// <summary>
-            /// Adds two numbers.
+            /// lægger de to tal sammen
             /// </summary>
             /// <param name="a">første tal</param>
             /// <param name="b">andet tal</param>
